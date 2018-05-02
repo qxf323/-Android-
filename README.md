@@ -1,6 +1,6 @@
 公众号：QXF069
 
-               
+     ![avatar](/img/gzh.jpg)          
 
 # -Android-
 一套完整的Android通用框架
